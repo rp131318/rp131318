@@ -222,10 +222,8 @@ Web: [https://talkaboutitltd.com/](https://talkaboutitltd.com/)
 
 # 📈 **GitHub Stats**
 
-```md
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rp131318&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rp131318&layout=compact)
-```
 
 ---
 
