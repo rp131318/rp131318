@@ -71,11 +71,13 @@ Below is a selection of my public-facing apps across Android, iOS, and Web.
 ### **Mintzer**
 
 Android: [https://play.google.com/store/apps/details?id=com.mintzer](https://play.google.com/store/apps/details?id=com.mintzer)
+
 Web: [https://mintzer.in/](https://mintzer.in/)
 
 ### **Field 360**
 
 Android: [https://play.google.com/store/apps/details?id=com.field360](https://play.google.com/store/apps/details?id=com.field360)
+
 iOS: [https://apps.apple.com/in/app/field360s/id6464121415](https://apps.apple.com/in/app/field360s/id6464121415)
 
 ### **Paper Lab**
@@ -85,8 +87,11 @@ Android: [https://play.google.com/store/apps/details?id=com.jamnadas.paperlab](h
 ### **Figeit (Buyer & Seller)**
 
 Buyer Android: [https://play.google.com/store/apps/details?id=com.apps.figeit](https://play.google.com/store/apps/details?id=com.apps.figeit)
+
 Seller Android: [https://play.google.com/store/apps/details?id=com.apps.figeit.seller](https://play.google.com/store/apps/details?id=com.apps.figeit.seller)
+
 Seller iOS: [https://apps.apple.com/in/app/figeit-seller/id6504214207](https://apps.apple.com/in/app/figeit-seller/id6504214207)
+
 Seller Panel: [https://beta.figeit.com/admin/login?tab=first](https://beta.figeit.com/admin/login?tab=first)
 
 ### **LMS – Click Innovative**
@@ -96,7 +101,9 @@ Android: [https://play.google.com/store/apps/details?id=com.clickinnovate.app](h
 ### **Tradevisor**
 
 Android: [https://play.google.com/store/apps/details?id=com.tradevisor.app](https://play.google.com/store/apps/details?id=com.tradevisor.app)
+
 iOS: [https://apps.apple.com/in/app/tradevisor-mera-market-advisor/id6670301590](https://apps.apple.com/in/app/tradevisor-mera-market-advisor/id6670301590)
+
 Web: [https://tradevisor.in/](https://tradevisor.in/)
 
 ### **Cheeta**
@@ -110,21 +117,25 @@ Android: [https://play.google.com/store/apps/details?id=com.autoflashcard.app](h
 ### **VII Courier**
 
 Android: [https://play.google.com/store/apps/details?id=com.vii.couriers](https://play.google.com/store/apps/details?id=com.vii.couriers)
+
 iOS: [https://apps.apple.com/in/app/vii-couriers/id6480589445](https://apps.apple.com/in/app/vii-couriers/id6480589445)
 
 ### **Study Yak**
 
 Android: [https://play.google.com/store/apps/details?id=com.studyak.app](https://play.google.com/store/apps/details?id=com.studyak.app)
+
 iOS: [https://apps.apple.com/in/app/studyak/id6450624286](https://apps.apple.com/in/app/studyak/id6450624286)
 
 ### **Payeem**
 
 Android: [https://play.google.com/store/apps/details?id=com.yaypaydayjm.payemm](https://play.google.com/store/apps/details?id=com.yaypaydayjm.payemm)
+
 Web: [https://payemm.com/](https://payemm.com/)
 
 ### **OnOn Sports Booking**
 
 Android: [https://play.google.com/store/apps/details?id=com.onon.application](https://play.google.com/store/apps/details?id=com.onon.application)
+
 iOS: [https://apps.apple.com/in/app/onon-squash/id6502598657](https://apps.apple.com/in/app/onon-squash/id6502598657)
 
 ### **Neon Games**
@@ -142,21 +153,25 @@ Android: [https://play.google.com/store/apps/details?id=com.one.agriwyz](https:/
 ### **Towing App (Driver + User)**
 
 Driver: [https://play.google.com/store/apps/details?id=com.marquelwrecking.driver](https://play.google.com/store/apps/details?id=com.marquelwrecking.driver)
+
 User: [https://play.google.com/store/apps/details?id=com.marqueltowing.app](https://play.google.com/store/apps/details?id=com.marqueltowing.app)
 
 ### **Talk About It**
 
 Android: [https://play.google.com/store/apps/details?id=com.talkaboutit.user.app](https://play.google.com/store/apps/details?id=com.talkaboutit.user.app)
+
 Web: [https://talkaboutitltd.com/](https://talkaboutitltd.com/)
 
 ### **Chess (Multiplayer)**
 
 Android: [https://play.google.com/store/apps/details?id=com.rocket.chess](https://play.google.com/store/apps/details?id=com.rocket.chess)
+
 iOS: [https://apps.apple.com/app/rocketchess/id6745399483](https://apps.apple.com/app/rocketchess/id6745399483)
 
 ### **VidyaMine**
 
 Android: [https://play.google.com/store/apps/details?id=com.vidyamine.app](https://play.google.com/store/apps/details?id=com.vidyamine.app)
+
 Web: [https://vidyamine.com/](https://vidyamine.com/)
 
 ### **Closer Security**
@@ -185,8 +200,6 @@ Web: [https://www.htfmarketinsights.com](https://www.htfmarketinsights.com)
 
 ### **E-Commerce Websites**
 
-React: [https://ecommerce.theanantkaal.com/](https://ecommerce.theanantkaal.com/)
-React: [https://ecommercetwo.theanantkaal.com/](https://ecommercetwo.theanantkaal.com/)
 WordPress: [https://zgayaauto.com/](https://zgayaauto.com/)
 
 ### **Task Management Software**
