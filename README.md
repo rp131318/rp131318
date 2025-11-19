@@ -70,7 +70,7 @@ Below is a selection of my public-facing apps across Android, iOS, and Web.
 
 ### **Mintzer**
 
-Android: [https://play.google.com/store/apps/details?id=com.mintzer](https://play.google.com/store/apps/details?id=com.mintzer)
+Android: [https://play.google.com/store/apps/details?id=com.mintzer](https://play.google.com/store/apps/details?id=com.mintzer)\n
 Web: [https://mintzer.in/](https://mintzer.in/)
 
 ### **Field 360**
